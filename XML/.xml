@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Niveaux_CrossBlock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="SchemaXML.xsd" xsi:schemaLocation="SchemaXML.xsd">
+  <Titre/>
+  <Description/>
+  <Liste_Niveaux Largeur_Max="11" Longueur_Max="20">
+    <Niveau Identifiant="1" Largeur="11" Longueur="20" Nombre_Bloc_Destruction="2">
+      <Bloc>
+        <Abscisse>8</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+      <Bloc>
+        <Abscisse>9</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+      <Bloc>
+        <Abscisse>10</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+      <Bloc>
+        <Abscisse>11</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+      <Bloc>
+        <Abscisse>12</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+    </Niveau>
+  <Niveau Identifiant="2" Largeur="11" Longueur="20" Nombre_Bloc_Destruction="2">
+      <Bloc>
+        <Abscisse>8</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+      <Bloc>
+        <Abscisse>10</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+      <Bloc>
+        <Abscisse>11</Abscisse>
+        <Ordonnee>4</Ordonnee>
+      </Bloc>
+    </Niveau>
+  </Liste_Niveaux>
+</Niveaux_CrossBlock>
