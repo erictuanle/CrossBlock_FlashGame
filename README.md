@@ -3,7 +3,7 @@ This repository offers an implementation of the FlashGame Crossblock in Java
 
 # Game commands
 <img src="https://raw.githubusercontent.com/erictuanle/CrossBlock_FlashGame/master/Images/Crossblock_Game.png" width=45% height=100%>
-Mouse Left button: Maintain the left button while drawing your line. Release the button to draw you line.<br />
+Mouse Left button: Maintain the left button while drawing your line. Release the button to draw your line.<br />
 R: Reload the level<br />
 ESC: Back to main menu<br />
 
